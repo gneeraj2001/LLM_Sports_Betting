@@ -52,10 +52,11 @@ The LLM (Large Language Model) in this bot uses natural language prompts to gene
    9. Output
          The LLM returns a prediction or analysis based on:
 
-         Statistical trends.
-         Current odds.
-         Context provided in the query.
+            Statistical trends.
+            Current odds.
+            Context provided in the query.
          Example Output:
+      
             My prediction is: Knicks will win.
             Confidence Level: Medium.
             Rationale: The Knicks have a strong home performance and a better defensive rating. However, the Bulls’ recent form suggests it could be a close game.
